@@ -34,7 +34,7 @@ export default {
                 {key: 2, 
                 title: 'Personal Website', 
                 text: 'This is my personal portfolio site which you are currently on. It was developed using HTML/CSS along with the VueJS framework. This is my first project in VueJS and helped me learn a lot about the framework features.',
-                url: 'https://github.com/MohammedShaibani',
+                url: 'https://mohammedshaibani.github.io/personal-site/',
                 image: 'placeholder.png'
                 },
 
