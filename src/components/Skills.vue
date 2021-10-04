@@ -45,7 +45,7 @@ export default {
   components: { skillBubble },
   methods: {
       downloadCV () {
-          window.open('https://drive.google.com/file/d/1l_KBT8Z7hddkwMVi9OZ8HL__aD9ipW-z/view?usp=sharing');
+          window.open('https://drive.google.com/file/d/1SoSOM38J_q5d6fPDWopFHo-gYxx152kw/view?usp=sharing');
       }
   }
 }
